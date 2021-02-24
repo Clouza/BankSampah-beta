@@ -11,10 +11,11 @@ Web Application "Bank Sampah" adalah aplikasi penyedia layanan berbasis website 
 	- Lalu kirim/go
 
 ## Clone
-
-> Jika kalian ingin folder ini berada di folder local komputer kalian, ketik: 
-> 
-> ` git clone https://github.com/Clouza/BankSampah-beta.git ` 
+Jika kalian ingin folder ini berada di folder local komputer kalian, ketik: 
+ 
+```
+git clone https://github.com/Clouza/BankSampah-beta.git 
+``` 
 
 Catatan
 -----------
