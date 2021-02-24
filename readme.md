@@ -23,4 +23,4 @@ Pastikan folder yang sudah di clone/pull berada di htdocs
 
 License
 ----------
-Licensed under the MIT license.
+Licensed under the [MIT](https://github.com/Clouza/BankSampah-beta/blob/master/license.txt) license.
