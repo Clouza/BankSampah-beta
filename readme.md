@@ -3,3 +3,9 @@ Web Application "Bank Sampah" adalah aplikasi penyedia layanan berbasis website 
 
 ## Database
 [Banksampah.sql](https://github.com/Clouza/BankSampah-beta/blob/master/banksampah.sql)
+
+## Clone
+
+> Jika kalian ingin file ini berada di file local komputer kalian, ketik: 
+> 
+> ` git clone https://github.com/Clouza/BankSampah-beta.git `
