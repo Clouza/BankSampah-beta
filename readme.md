@@ -19,3 +19,7 @@ Web Application "Bank Sampah" adalah aplikasi penyedia layanan berbasis website 
 Catatan
 -----------
 Pastikan folder yang sudah di clone/pull berada di htdocs
+
+License
+----------
+[MIT](https://choosealicense.com/licenses/mit/)
