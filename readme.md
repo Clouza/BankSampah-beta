@@ -5,7 +5,7 @@ Web Application "Bank Sampah" adalah aplikasi penyedia layanan berbasis website 
 - [Banksampah.sql](https://github.com/Clouza/BankSampah-beta/blob/master/banksampah.sql)
 - Langkah
 	- Hidupkan Mysql
-	- Pergi ke (PhpMyAdmin)[https://localhost/phpmyadmin/]
+	- Pergi ke [PhpMyAdmin](https://localhost/phpmyadmin/)
 	- Cari tombol impor/import
 	- Cari file yang bernana "banksampah.sql"
 	- Lalu kirim/go
