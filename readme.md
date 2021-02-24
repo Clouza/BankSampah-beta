@@ -22,4 +22,4 @@ Pastikan folder yang sudah di clone/pull berada di htdocs
 
 License
 ----------
-[This repo licensed under the MIT License](https://choosealicense.com/licenses/mit/)
+[licensed under the MIT License](https://choosealicense.com/licenses/mit/)
