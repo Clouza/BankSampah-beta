@@ -20,7 +20,7 @@ Atau download [zip](https://github.com/Clouza/BankSampah-beta/archive/refs/heads
 
 Catatan
 -----------
-Pastikan folder yang sudah di clone berada di htdocs
+Pastikan folder yang sudah di clone/download berada di htdocs
 
 License
 ----------
