@@ -156,8 +156,8 @@ class Auth extends CI_Controller
         $config = [
             'protocol' => 'smtp',
             'smtp_host' => 'ssl://smtp.googlemail.com',
-            'smtp_user' => 'banksampahlumo@gmail.com',
-            'smtp_pass' => 'siwanandarajasa1954',
+            'smtp_user' => 'youremail@mail.com',
+            'smtp_pass' => 'yourpassword',
             'smtp_port' => 465,
             'mailtype' => 'html',
             'charset' => 'utf-8',
@@ -167,7 +167,7 @@ class Auth extends CI_Controller
         $this->load->library('email', $config);
         $this->email->initialize($config);
 
-        $this->email->from('banksampahlumo@gmail.com', 'Bank Sampah Lumonata');
+        $this->email->from('youremail@mail.com', 'Bank Sampah Lumonata');
         $this->email->to($this->input->post('email'));
 
         // cek type
